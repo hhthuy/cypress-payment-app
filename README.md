@@ -93,7 +93,7 @@ This project is a personal learning exercise focused on practicing Cypress testi
 
 <table>
   <tr>
-    <td align="center"><a href="https://drive.google.com/drive/my-drive"><img src="Avatar.png" width="100px;" alt=""/><br /><sub><b>Thuy Ho</b></sub></a></td>
+    <td align="center"><a href="https://github.com/hhthuy/"><img src="Avatar.png" width="100px;" alt=""/><br /><sub><b>Thuy Ho</b></sub></a></td>
   </tr>
 </table>
 
@@ -102,3 +102,7 @@ I re-built this project to use Cypress and gain experience testing a payment app
 Project explores various aspects of Cypress testing, including API interactions, UI validation, and security checks, within the context of a payment application.
 
 _Reference: https://github.com/cypress-io/cypress-realworld-app_
+
+ACME Demo Banking (web UI):https://demo.applitools.com/app.html
+
+ParaBank Bank Site (web, API): https://parabank.parasoft.com/parabank/index.htm
