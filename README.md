@@ -1,6 +1,3 @@
-# cypress-payment-app
-Cypress testing with a payment application.
-
 <h1 align="center">Payment Application </h1>
 <h3  align="center"><img alt="Cypress Real World App Logo" width="150px" src="./src/svgs/rwa-logo-light.svg#gh-dark-mode-only" /></h3>
 <p align="center">
